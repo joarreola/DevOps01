@@ -1,2 +1,6 @@
 branch01 line
+<<<<<<< HEAD
 a new master line
+=======
+a new branch01 line
+>>>>>>> branch01
