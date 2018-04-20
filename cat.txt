@@ -1,1 +1,2 @@
 branch01 line
+a new master line
