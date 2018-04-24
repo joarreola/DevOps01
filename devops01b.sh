@@ -107,6 +107,8 @@ if [[ ! -z "${c}" ]]; then
 	echo ""
 fi
 
+
+
 ##############################
 # information about the cpus/core
 #
